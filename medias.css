@@ -10,7 +10,7 @@
 
  /* Tamanho de tablets */
 
-@media screen and (min-width: 768px) and (max-width: 99epx) {
+@media screen and (min-width: 768px) and (max-width: 992px) {
     section.coluna {
         flex: 1 1 50%
     }
